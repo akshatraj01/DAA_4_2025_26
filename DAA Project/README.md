@@ -52,11 +52,16 @@ This project visually demonstrates these steps in an interactive way.
 
 ## ▶️ Run Locally
 
-```id="7q4h1h"
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-open index.html
-```
+To run this project on your system:
+
+1. Clone the repository:
+   git clone https://github.com/akshatraj01/DAA_4_2025_26.git
+
+2. Move into the project directory:
+   cd DAA_4_2025_26
+
+3. Open `index.html` in any browser  
+   OR use VS Code Live Server for better experience
 
 ---
 
